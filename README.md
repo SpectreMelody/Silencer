@@ -14,3 +14,11 @@ git clone https://github.com/SpectreMelody/Silencer.git
 ```bash
 git clone git@github.com:SpectreMelody/Silencer.git
 ```
+
+### 2. Load Package to Chrome
+
+> Go To **[Chrome Extension](chrome://extensions/)**
+1. Enable Developer Mode
+2. Load Unpacked
+3. Find Silencer Folder
+4. Load The Project
